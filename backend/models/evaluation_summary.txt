@@ -1,0 +1,8 @@
+Selected model: random_forest
+Accuracy: 0.996
+Precision (weighted): 0.996
+Recall (weighted): 0.996
+F1 (weighted): 0.996
+
+Confusion matrix rows/cols follow STRENGTH_LABELS.
+[[0, 0, 0, 0, 0], [0, 141, 0, 0, 0], [0, 0, 7, 0, 0], [0, 1, 0, 107, 1], [0, 0, 0, 0, 243]]
